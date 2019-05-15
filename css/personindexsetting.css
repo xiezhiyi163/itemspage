@@ -1,0 +1,24 @@
+@charset "utf-8";
+.p-index-setting-wrap{
+	padding: 30px;
+}
+.p-index-setting-input{
+	padding-bottom:10px ;
+}
+.p-index-setting-input>input{
+	padding: 10px 15px;
+	border: 1px solid #007AFF;
+	margin-right: 20px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.p-index-setting-inputtitle{
+	display: inline-block;
+	width: 100px;
+	text-align: right;
+	font-size: 20px;
+}
+.p-index-setting-oldphone{
+	display: inline-block;
+	padding: 10px 15px;
+}

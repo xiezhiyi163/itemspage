@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*index*/
+.index-conttopbanner{
+	height: 350px;
+	margin: 0px auto 0;
+}
+.index-main{
+	height: 400px;
+	margin: 30px auto 0;
+}
