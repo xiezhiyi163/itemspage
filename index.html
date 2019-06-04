@@ -179,9 +179,10 @@
 				</div>
 			</div>
 			<div id="iframe_box" class="Hui-article" 窗口内容>
-				<div class="show_iframe">
+				<div class="show_iframe" style="webkit-overflow-scrolling: touch;overflow-y: auto;">
 					<div style="display:none" class="loading"></div>
 					<!--
+						webkit-overflow-scrolling: touch;overflow-y: scroll;//适配ios无法滚动，这里改成了auto
 						内页逻辑（普遍的）：
 						输入框输入内容
 						时间选择
